@@ -1,0 +1,5 @@
+node_modules
+.idea
+node-okten-hw2.iml
+/.idea/*.*
+/.idea/**/*.xml
