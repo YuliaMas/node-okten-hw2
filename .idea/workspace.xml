@@ -4,42 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f8d1e27-53c5-4126-bd14-97711312b82c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder1/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder1/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder1/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder2/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder2/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder2/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder2/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder2/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder3/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder3/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder3/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder4/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder4/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder4/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder4/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder4/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder5/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder5/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder5/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder5/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baseFolder/folder5/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-okten-hw2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="7f8d1e27-53c5-4126-bd14-97711312b82c" name="Changes" comment="Add homework 2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,14 +62,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725701248275</updated>
-      <workItem from="1725701249458" duration="10925000" />
+      <workItem from="1725701249458" duration="12972000" />
     </task>
+    <task id="LOCAL-00001" summary="Add .gitignore">
+      <option name="closed" value="true" />
+      <created>1725724409347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725724409349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add homework 2">
+      <option name="closed" value="true" />
+      <created>1725724463366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725724463366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add .gitignore" />
+    <MESSAGE value="Add homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework 2" />
   </component>
 </project>
